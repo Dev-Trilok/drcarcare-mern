@@ -1,3 +1,40 @@
+
+# Drcarcare car service management site(In Progress)
+
+## Description
+
+This is a car service mgmt site which is used to provide car services functionality. It is built in ReactJs, MongoDb, ExpressJs, NodeJs.
+
+## Demo
+
+Link 👉 To be added later.
+
+## Screenshot
+
+To be added.
+
+## Installation
+
+Step 1
+🍴 Fork this repo!
+
+Step 2
+👯 Clone this repository to your local machine.
+
+Step 3
+HACK AWAY! 🔨🔨🔨
+
+In the project directory, you can run:
+
+`npm run dev`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+Made with ❤
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
